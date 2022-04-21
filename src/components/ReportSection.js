@@ -32,9 +32,9 @@ const ReportSection = (data) => {
                                         <h1><span></span><span className="currentTemp" id="currentTemp"></span></h1><br/>
                                         <div></div>
                                     </div>  
-                                    <div>
-                                        <img src=""  id="sunny" style={{display: "none"}}/>
-                                    </div>
+                                    {/* <div>
+                                        <img src="../public/icon/01d@2x.png"  id="sunny" style={{display: "none"}}/>
+                                    </div> */}
                                     <div className="current-conditions">
                                         <h3><span></span><span className="currentContition" id="currentContition"></span> <span id="icon"> </span></h3><br/>
                                     </div>                                                                         

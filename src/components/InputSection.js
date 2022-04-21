@@ -135,9 +135,9 @@ const InputSection = (data) => {
     document.getElementById('dayThreeCond').innerHTML = DayThree.weather[0].description;
 
 
-    document.getElementById('dayOneWeather').src = '/icon/'+DayOne.weather[0].icon+"@2x.png"; 
-    document.getElementById('dayTwoWeather').src = '/icon/'+DayTwo.weather[0].icon+"@2x.png"; 
-    document.getElementById('dayThreeWeather').src = '/icon/'+DayThree.weather[0].icon+"@2x.png"; 
+    // document.getElementById('dayOneWeather').src = '/icon/'+DayOne.weather[0].icon+"@2x.png"; 
+    // document.getElementById('dayTwoWeather').src = '/icon/'+DayTwo.weather[0].icon+"@2x.png"; 
+    // document.getElementById('dayThreeWeather').src = '/icon/'+DayThree.weather[0].icon+"@2x.png"; 
     
     
   }
