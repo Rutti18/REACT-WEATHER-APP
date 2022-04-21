@@ -57,7 +57,8 @@ const InputSection = (data) => {
         // time =   currentDate.toLocaleString('en-US', { hour: 'numeric', hour12: true })
 
             
-            document.getElementById('currentDate').innerHTML = convertedDate; 
+            document.getElementById('currentDate').innerHTML = convertedDate;
+            document.getElementById('currentTime').innerHTML = currentDate.getHours() + ":" + currentDate.getMinutes() + ":" + currentDate.getSeconds();  
             let currentTemp = data.current.temp+' <span>&#8457;</span>';
             document.getElementById('currentTemp').innerHTML = currentTemp; 
             let currentCondition = data.current.weather[0]['description'];

@@ -11,7 +11,9 @@ const ReportSection = (data) => {
                                         <h1><span> </span> <span className="city" id="city"></span></h1> <br/>
                                     </div>
                                     <div className="current-date">
-                                        <h3><span></span><span className="currentDate" id="currentDate"></span></h3> <br/>
+                                        <h3><span></span><span className="currentDate" id="currentDate"></span></h3>
+                                        &nbsp; &nbsp;
+                                        <h3><span></span><span className="currentTime" id="currentTime"></span></h3> <br/>
                                     </div>
                                     <div className="temperature">
                                         <h3><span></span><span className="FeelsLike" id="FeelsLike">  </span></h3>                                     
