@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Rutti18/REACT-WEATHER-APP.git/static/css/main.c5145db4.css",
+    "main.js": "/Rutti18/REACT-WEATHER-APP.git/static/js/main.27a2b0a2.js",
+    "static/media/Weather-image2.jpg": "/Rutti18/REACT-WEATHER-APP.git/static/media/Weather-image2.bd59187a29badb40b4b2.jpg",
+    "index.html": "/Rutti18/REACT-WEATHER-APP.git/index.html",
+    "main.c5145db4.css.map": "/Rutti18/REACT-WEATHER-APP.git/static/css/main.c5145db4.css.map",
+    "main.27a2b0a2.js.map": "/Rutti18/REACT-WEATHER-APP.git/static/js/main.27a2b0a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5145db4.css",
+    "static/js/main.27a2b0a2.js"
+  ]
+}
